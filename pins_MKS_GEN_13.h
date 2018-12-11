@@ -48,7 +48,7 @@
 //
 #if POWER_SUPPLY > 0
   #define SERVO3_PIN      -1
-  #define PS_ON_PIN        4
+  #define PS_ON_PIN       11
 #endif
 
 #include "pins_RAMPS.h"
